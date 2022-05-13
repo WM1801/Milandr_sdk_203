@@ -1,0 +1,18 @@
+E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\Debug\BrowseInfo\User\Menu_tsensor.pbi: \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\src\Menu_tsensor.c \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\adc.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\types.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\Menu.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\Menu_items.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\lcd.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\text.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\font_defs.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\joystick.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\systick.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\MDR32F9Qx_it.h

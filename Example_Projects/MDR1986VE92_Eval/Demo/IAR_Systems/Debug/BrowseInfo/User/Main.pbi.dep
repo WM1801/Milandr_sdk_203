@@ -1,0 +1,27 @@
+E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\Debug\BrowseInfo\User\Main.pbi: \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\systick.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\src_fatfs\diskio.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\src_fatfs\ffconf.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\src_fatfs\ff.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\src_fatfs\integer.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\src_fatfs\rtc.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\Demo_Init.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\lowpower.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\time.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\menu.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\leds.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\joystick.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\font_defs.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\text.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\gl.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\lcd.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\Demo\IAR_Systems\..\..\inc\types.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdio.h \
+  E:\Keil_Milandr\sdk10122021\2.0.3\Example_Projects\MDR1986VE92_Eval\src\Main.c
